@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arifmndr17
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning That Programming Language
-- 💞️ I’m looking to collaborate on Building an Android App and Rom
+- 💞️ I’m looking to collaborate on Building an Android App and Kernel
 - 📫 How to reach me Telegram [@Munandar17]
 
 <!---
