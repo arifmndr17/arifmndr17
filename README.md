@@ -1,2 +1,10 @@
-Hi!!! WELCOME TO MY GITHUB
-Jangan Lupa Ngopi, karena tidak ngopi tidak enak!!!
+============================||
+Hi!!! WELCOME TO MY GITHUB  || 
+                            ||
+I'm from Indonesia 🇮🇩       ||
+My hobby is in technology 🖥️||
+I eat rice 🥲               ||
+And I drink too 🥲          ||
+                            ||
+Jangan Lupa Ngopi Woyyy !!! ||
+============================||
